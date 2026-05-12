@@ -71,11 +71,12 @@
 
 </div>
 
-| Projeto | Papel | Status |
-|---------|-------|--------|
-| 🏛️ **Softwares Jurídicos – PGE \| UFMS** | Engenheiro de Requisitos & Product Designer | 🟢 Ativo |
-| 🗄️ **Novo-SIGFAP** | Analista de Requisitos & QA | ✅ Concluído |
-| 📱 **OBCOOP Mobile** | Testador de Software & UX/UI | ✅ Concluído |
+| Projeto | Papel | Status | Período
+|---------|-------|--------|--------|
+| 🏛️ **Softwares Jurídicos – PGE \| UFMS** | Engenheiro de Requisitos & Product Designer | 🟢 Ativo | 2026 |
+| 🗄️ **Novo-SIGFAP** | Analista de Requisitos & QA | ✅ Concluído | 2024-2026 |
+| 🏆 **B³yond — \</pantanal.dev\> · B3** | Product Owner & Engenheiro de Requisitos | ✅ Concluído | 2025 |
+| 📱 **OBCOOP Mobile** | Testador de Software & UX/UI | ✅ Concluído | 2024 |
 
 ---
 
@@ -85,7 +86,9 @@
 
 🥇 **Equipe Vencedora — \</pantanal.dev\> · B3** — Módulo Engenharia de Software *(2025)*
 
-🥈 **Menção Honrosa OBMEP 2017** — Instituto Nacional de Matemática Pura e Aplicada
+⭐ **Menção Honrosa OBMEP 2017** — Nível 2 · Instituto Nacional de Matemática Pura e Aplicada
+
+🥉 **Medalha de Bronze OBMEP 2016** — Nível 1 · Instituto Nacional de Matemática Pura e Aplicada
 
 🎓 **Bolsista PIC OBMEP 2016** — CNPq · Iniciação Científica Júnior
 
