@@ -2,7 +2,7 @@
 
 # Jerfferson Júnior
 
-### Engenheiro de Requisitos · Product Designer · QA
+### Engenheiro de Requisitos · Product Designer
 
 *Conectando software e pessoas — da elicitação ao protótipo.*
 
@@ -43,6 +43,7 @@
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/br/software/jira)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/br/software/confluence)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com)
+[![GitHub Projects](https://img.shields.io/badge/github_projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 **Desenvolvimento & Versionamento**
 
