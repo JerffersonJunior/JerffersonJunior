@@ -75,7 +75,7 @@
 |---------|-------|--------|--------|
 | 🏛️ **Softwares Jurídicos – PGE \| UFMS** | Engenheiro de Requisitos & Product Designer | 🟢 Ativo | 2026 |
 | 🗄️ **Novo-SIGFAP** | Analista de Requisitos & QA | ✅ Concluído | 2024-2026 |
-| 🏆 **B³yond — \</pantanal.dev\> · B3** | Product Owner & Engenheiro de Requisitos | ✅ Concluído | 2025 |
+| 🏆 **B³yond - Vencedor \</pantanal.dev\> \| B3** | Product Owner & Engenheiro de Requisitos | ✅ Concluído | 2025 |
 | 📱 **OBCOOP Mobile** | Testador de Software & UX/UI | ✅ Concluído | 2024 |
 
 ---
